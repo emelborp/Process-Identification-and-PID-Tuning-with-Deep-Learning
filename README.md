@@ -1,5 +1,5 @@
 # Process-Identification-with-PID-Tuning-by-Deep-Learning
-A program that can do Process Identification and PID Tuning by using Deep Learning designed for people studying and researching chemical engineering.
+A program that can do Process Identification and PID Tuning by using Deep Learning designed for people studying and researching chemical engineering.1
 
 A method of approximating a process to First Order Plus Time Delay(FOPTD) process or Second Order Plus Time Delay(SOPTD) process using unit step input change data and Deep Learning. In other words, by using Deep learning, the process variables like time constant, time delay and decay ratio are obtained.
 
