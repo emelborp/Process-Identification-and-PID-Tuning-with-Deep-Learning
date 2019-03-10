@@ -13,7 +13,7 @@ Data on the First Order Plus Time Delay(FOPTD) process and data on the Second Or
   *When predicting the time delay variable of the secondary order process, add the time when the process output reaches 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, 95% of the steady state to the training data as First order process.
   
 extra
-1. There is also an algorithm for finding the optimal hyperparameter using RandomizedSearchCV.
+1. There is also an algorithm for finding the optimal hyper parameters using RandomizedSearchCV.
 2. You can also use the tensorboard to view Computational Graph and learning curves.
 
 *Most artificial neural network methods were used in the tensorflow library, and most algorithms referred to algorithms from Hands-On Machine Learning with Scikit-Learn & Tensorflow.
