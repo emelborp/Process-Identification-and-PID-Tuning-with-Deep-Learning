@@ -18,7 +18,7 @@ extra
 
 *Most artificial neural network methods were used in the tensorflow library, and most algorithms referred to algorithms from Hands-On Machine Learning with Scikit-Learn & Tensorflow.
 and The tuning method used here refers to a book process identification with pid control and process dynamics and control techniques.
-- , process identification with pid control, Wieley.
+- Su Whan Sung, Jietae Lee, in-Beum Lee, process identification with pid control, John Wiley & Sons (Asia) Pte Ltd.
 - seborg, melichamp, doyle, edgar, process dynamics and control techniques 4th ed. , John Wiley & Sons. (2017)
 
 *프로그램을 만들면서 정리해본 보고서가 있습니다. 한국분들은 올려져 있는 워드파일 보시면 이해가 더 잘 되실 거 같습니다.
